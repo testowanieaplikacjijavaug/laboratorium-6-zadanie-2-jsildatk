@@ -5,5 +5,11 @@ os: linux
 dist: trusty
 jdk: openjdk8
 
+notifications:
+  email: false
+
+before_install:
+  - chmod +x gradlew
+
 script:
   - ./gradlew build --scan -s
