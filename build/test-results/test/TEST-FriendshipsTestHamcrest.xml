@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FriendshipsTestHamcrest" tests="15" skipped="0" failures="0" errors="0" timestamp="2020-03-23T14:03:40" hostname="DESKTOP-73NJI57" time="0.023">
+  <properties/>
+  <testcase name="shouldThrowExceptionWhenPerson1IsNull()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenPerson2IsBlank()" classname="FriendshipsTestHamcrest" time="0.0"/>
+  <testcase name="shouldMakeFriendsWithPersonsWithNoFriends()" classname="FriendshipsTestHamcrest" time="0.005"/>
+  <testcase name="shouldGetFriendsOfPerson()" classname="FriendshipsTestHamcrest" time="0.002"/>
+  <testcase name="shouldThrowExceptionWhenPerson2IsNull()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenPerson2HasWhitespaces()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldReturnFalseWhenCheckingForFriendship()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenGettingNullPerson()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenGettingBlankPerson()" classname="FriendshipsTestHamcrest" time="0.0"/>
+  <testcase name="shouldReturnTrueWhenCheckingForFriendship()" classname="FriendshipsTestHamcrest" time="0.0"/>
+  <testcase name="shouldThrowExceptionWhenPerson1IsBlank()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenGettingPersonWithWhitespaces()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldGetFriendsOfPersonWithNoFriends()" classname="FriendshipsTestHamcrest" time="0.002"/>
+  <testcase name="shouldMakeFriendsWithPersonsWithFriends()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenPerson1HasWhitespaces()" classname="FriendshipsTestHamcrest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
